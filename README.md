@@ -94,7 +94,7 @@ A continuación se muestran las capturas de las funcionalidades implementadas en
 
 Permite registrar un nuevo producto en la tienda mediante el panel de administración.
 
-![Crear producto](Captura%20tp7/01-crear-producto.png)
+![Crear producto](./Captura%20tp7/01-crear-producto.png)
 
 ### 2. Listar productos (READ)
 
