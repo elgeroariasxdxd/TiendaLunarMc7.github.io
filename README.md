@@ -86,6 +86,7 @@ También se trabajó con la administración de productos y la conexión con la b
 
 
 
+
 ## Capturas del Trabajo Práctico N.º 7
 
 A continuación se muestran las capturas de las funcionalidades implementadas en la tienda LunarMC.
@@ -94,40 +95,40 @@ A continuación se muestran las capturas de las funcionalidades implementadas en
 
 Permite registrar un nuevo producto en la tienda mediante el panel de administración.
 
-![Crear producto](./Captura%20tp7/01-crear-producto.png)
+![Crear producto](captura%20tp7/01-crear-producto.png)
 
 ### 2. Listar productos (READ)
 
 Muestra los productos registrados en la base de datos.
 
-![Listar productos](Captura%20tp7/02-listar-productos.png)
+![Listar productos](captura%20tp7/02-listar-productos.png)
 
 ### 3. Editar producto (UPDATE)
 
 Permite modificar la información de un producto existente.
 
-![Editar producto](Captura%20tp7/03-editar-producto.png)
+![Editar producto](captura%20tp7/03-editar-producto.png)
 
 ### 4. Eliminar producto (DELETE)
 
 Permite eliminar un producto registrado.
 
-![Eliminar producto](Captura%20tp7/04-eliminar-producto.png)
+![Eliminar producto](captura%20tp7/04-eliminar-producto.png)
 
 ### 5. Base de datos MySQL
 
 Se utiliza MySQL para almacenar los productos y sus datos.
 
-![Base de datos MySQL](Captura%20tp7/05-mysql.png)
+![Base de datos MySQL](captura%20tp7/05-mysql.png)
 
 ### 6. Conexión PDO
 
 La conexión entre PHP y MySQL se realiza mediante PDO.
 
-![Conexión PDO](Captura%20tp7/conexion%20pdo%20db.png)
+![Conexión PDO](captura%20tp7/conexion%20pdo%20db.png)
 
 ### 7. Protección contra XSS
 
 Se utiliza htmlspecialchars() para evitar que el navegador interprete código HTML ingresado por los usuarios.
 
-![Protección XSS](Captura%20tp7/proteccion%20xss.png)
+![Protección XSS](captura%20tp7/proteccion%20xss.png)
