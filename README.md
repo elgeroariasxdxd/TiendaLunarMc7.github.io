@@ -85,6 +85,7 @@ También se trabajó con la administración de productos y la conexión con la b
 
 
 
+
 ## Capturas del Trabajo Práctico N.º 7
 
 A continuación se muestran las capturas de las funcionalidades implementadas en la tienda LunarMC.
@@ -127,7 +128,6 @@ La conexión entre PHP y MySQL se realiza mediante PDO.
 
 ### 7. Protección contra XSS
 
-Se aplican medidas de seguridad para evitar que se interprete código HTML malicioso al mostrar datos.
+Se utiliza htmlspecialchars() para evitar que el navegador interprete código HTML ingresado por los usuarios.
 
 ![Protección XSS](Captura%20tp7/proteccion%20xss.png)
-
